@@ -1,8 +1,8 @@
 ### Salem 👋
 
-I'm Mobile Developer.
+I'm Mobile developer.
 
-Now focusing on iOS development at @bcc.kz
+Now focusing on iOS development.
 
 How to contact me? Just send email to janabilabay@gmail.com
 
