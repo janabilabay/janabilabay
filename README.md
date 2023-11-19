@@ -2,8 +2,6 @@
 
 I'm **mobile** developer.
 
-Focusing on **native** and **cross-platform** development.
-
 To contact with me, just send email to janabilabay@gmail.com
 
 ### Stack
