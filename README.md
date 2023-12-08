@@ -1,6 +1,6 @@
-#### Salem, my name is Janabil 👋
+#### Hi, my name is Janabil 👋
 
-I'm a cross-platform mobile developer from Kazakhstan 🇰🇿
+I'm a multi-platform mobile developer from Kazakhstan 🇰🇿
 
 To contact with me, just send email to janabilabay@gmail.com
 
