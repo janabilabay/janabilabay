@@ -1,10 +1,25 @@
-# 👋 Hello there, I'm Jean
+## 👋🏽 Hey, I'm Jean
 
-I enjoy learning and creating things, interested in mobile development.
+I'm 24 years old, I'm a developer from Kazakhstan, and I'm passionate about creating mobile applications.
 
-To contact with me, just send email to janabilabay@gmail.com
+## 📦 Toolbox
 
+Mobile Development: iOS Flutter
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+Version Control: Git GitLab Bitbucket
+
+Testing: Postman Insomnia
+
+Others: Figmna Scrum Confluence Jira
+
+## ✨ Fun Facts
+
+Bleach is my favorite anime.
+
+As a kid, I wanted to be an pilot.
+
+I like to play tennis.
+
+## 📫 Contact
+
+My mail janabilabay@gmail.com
