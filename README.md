@@ -3,19 +3,19 @@
 I'm 24 years old, I'm a developer from Kazakhstan, and I'm passionate about creating mobile applications.
 
 ## 📦 Toolbox
-- Mobile Development: iOS, Flutter
+- Mobile Development: iOS, Flutter.
   
-- Backend Development: GO, Kotlin, Firebase
+- Backend Development: GO, Kotlin, Firebase.
   
-- Version Control: Git, GitLab, Bitbucket
+- Version Control: Git, GitLab, Bitbucket.
   
-- Others: Scrum, Confluence, Jira, Postman
+- Others: Scrum, Confluence, Jira, Postman.
   
 
 ## ✨ Fun Facts
 - Bleach is my favorite anime.
 
-- As a kid, I wanted to be an astronaut.
+- As a kid, I wanted to be an vet.
   
 - I love using Mac after switching from Windows.
   
